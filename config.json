@@ -1,0 +1,11 @@
+{
+    "input_dir": "data/input",
+    "output_dir": "data/out",
+    "xml_input_file": "impulse_test_input.xml",
+    "json_config_file": "config.json",
+    "patched_json_config_file": "patched_config.json",
+    "config_output_file": "config.xml",
+    "meta_output_file": "meta.json",
+    "delta_output_file": "delta.json",
+    "patched_config_output_file": "res_patched_config.json"
+}
